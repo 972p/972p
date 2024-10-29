@@ -6,7 +6,7 @@
 	<img align="center" alt="Favelas GitHub stats" src="https://github-readme-stats.vercel.app/api?username=972p&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	<br />
 	<br />
-	<img align="center" alt="Favelas Discord Profile" src="https://lanyard-profile-readme.vercel.app/api/677154141935632396" />
+	
 </div>
 ---
 
