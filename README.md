@@ -3,19 +3,14 @@
 	<img align="center" alt="Favelas GitHub stats" src="https://github-readme-stats.vercel.app/api?username=972p&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	<br />
 	<br />
-	<img align="center" alt="Favelas's Discord Profile" src="https://lanyard.cnrad.dev/api/677154141935632396"/>
+	<img align="center" alt="Favelas Discord Profile" src="https://lanyard-profile-readme.vercel.app/api/677154141935632396" />
 </div>
-<!--
-**972p/972p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌍 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,ps)](https://skillicons.dev)
+
+## 👨‍💻 Programs & more:
+
+[![Programs](https://skillicons.dev/icons?i=discord,idea,vscode,postgres,github,linux,windows)](https://skillicons.dev)
