@@ -1,4 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&color=%23F7B365&height=30&lines=%F0%9F%91%8B+Hi+there!;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+I'm+Noah+(known+as+Favelas);%E2%A4%B5%EF%B8%8F+See+my+projects+below"/>
+![ProfilViews](https://komarev.com/ghpvc/?username=esechy&color=blue)
+![Wakatime](https://wakatime.com/badge/user/42853a7e-4a12-41c4-8a71-5b5d5b229047.svg)
 <div align="center"> 
 	<img align="center" alt="Favelas GitHub stats" src="https://github-readme-stats.vercel.app/api?username=972p&count_private=true&hide_border=true&theme=vision-friendly-dark" />
 	<br />
