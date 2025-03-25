@@ -12,7 +12,7 @@
 
 ## 🌍 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,react)](https://skillicons.dev)
 
 ## 👨‍💻 Programs & more:
 
