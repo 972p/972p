@@ -16,5 +16,5 @@
 
 ## 👨‍💻 Programs & more:
 
-[![Programs](https://skillicons.dev/icons?i=discord,vscode,github,linux,windows,apple,ps)](https://skillicons.dev)
+[![Programs](https://skillicons.dev/icons?i=discord,vscode,github,linux,windows,apple,ps,visualstudio)](https://skillicons.dev)
 
