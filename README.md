@@ -12,9 +12,9 @@
 
 ## 🌍 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,react,cs,net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,react,cs)](https://skillicons.dev)
 
 ## 👨‍💻 Programs & more:
 
-[![Programs](https://skillicons.dev/icons?i=discord,vscode,visualstudio,github,linux,windows,apple,ps)](https://skillicons.dev)
+[![Programs](https://skillicons.dev/icons?i=discord,vscode,visualstudio,github,linux,windows,apple,ps,net)](https://skillicons.dev)
 
